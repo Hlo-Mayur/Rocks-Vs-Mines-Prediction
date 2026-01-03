@@ -3,12 +3,14 @@
 This project uses machine learning to classify sonar signals as either **rock** or **mine**.
 
 ## Project Structure
+
+```text
 Rocks-Vs-Mines-Prediction/
-│── data/ # Dataset files
-│── notebooks/ # Jupyter notebooks
-│ └── rocks_vs_mines.ipynb
-│── README.md
-│── requirements.txt
+|-- data/
+|-- notebooks/
+|   `-- rocks_vs_mines.ipynb
+|-- README.md
+|-- requirements.txt
 
 ## Technologies Used
 - Python
